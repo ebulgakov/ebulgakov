@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Eugene Bulgakov 👋
+### Senior Frontend Fullstack Engineer (React, TypeScript, Vue, Next, Express, NodeJS, MongoDB) | High-Load E-commerce | Performance Optimization & Developer Experience Focused
 
-<!--
-**ebulgakov/ebulgakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in building **high-load frontend systems** and designing architectures for scalable web applications.
 
-Here are some ideas to get you started:
+With over **10 years of industry experience**, I have evolved from implementing pixel-perfect designs to managing the frontend of an e-commerce platform with **100,000+ daily users**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My engineering philosophy rests on three pillars: **Performance**, **Maintainability**, and **Developer Experience**. I believe that clean code is not just aesthetics, but a business asset.
+
+---
+
+## 🚀 Current Focus & Impact
+
+My last employment **JiffyShirts.com**, where I own critical performance metrics and codebase quality.
+
+* **Optimization:** Doubled key metrics in **PageSpeed Insights** by completely overhauling the build infrastructure (Webpack) and optimizing dependencies.
+* **Scale:** Maintaining and evolving a platform serving millions of requests.
+* **Quality:** Establishing Code Review and CI/CD processes for a team of 70+ engineers, implementing strict linting and testing standards (Jest, ESLint).
+
+---
+
+## 🛠️ Technical Arsenal
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Core Frontend** | ![](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) |
+| **Backend & Data** | ![](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) |
+| **Tooling & Ops** | Webpack, Docker, GitHub Actions, Sentry, Jest, Playwright |
+| **Legacy & Migration** | AngularJS → React/Vue refactoring strategies |
+
+---
+
+## 🔭 Innovations: Infrastructure as Code
+
+In my free time away from High-Load tasks, I develop my own small services within the e-commerce ecosystem.
+
+* **[dns-markdown-next](https://github.com/your-username/dns-markdown-next)** - A service for searching and tracking discounted items. 
+* **[dns-markdown-parser-next](https://github.com/your-username/dns-markdown-parser-next)** - A parser required for the service that collects data and aggregates it into a database.
+
+---
+
+## 📫 Get in Touch
+
+I am always open to discussing complex architecture, performance optimization, and new challenges.
+
+* 🌐 **Website:** [ebulgakov.com](https://ebulgakov.com)
+* 💼 **LinkedIn:** [linkedin.com/in/ebulgakov](https://linkedin.com/in/ebulgakov)
+* 📧 **Email:** [me@ebulgakov.com](mailto:me@ebulgakov.com)
