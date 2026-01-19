@@ -35,7 +35,6 @@ My last employment **JiffyShirts.com**, where I own critical performance metrics
 In my free time away from High-Load tasks, I develop my own small services within the e-commerce ecosystem.
 
 * **[dns-markdown-next](https://github.com/your-username/dns-markdown-next)** - A service for searching and tracking discounted items. 
-* **[dns-markdown-parser-next](https://github.com/your-username/dns-markdown-parser-next)** - A parser required for the service that collects data and aggregates it into a database.
 
 ---
 
