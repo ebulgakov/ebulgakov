@@ -34,7 +34,8 @@ My last employment **JiffyShirts.com**, where I own critical performance metrics
 
 In my free time away from High-Load tasks, I develop my own small services within the e-commerce ecosystem.
 
-* **[dns-markdown-next](https://github.com/your-username/dns-markdown-next)** - A service for searching and tracking discounted items. 
+* **[dns-markdown-next](https://github.com/your-username/dns-markdown-next)** - A service for searching and tracking discounted items.
+* **[dns-markdown-api](https://github.com/ebulgakov/dns-markdown-api)** - API for the service 
 
 ---
 
