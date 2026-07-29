@@ -23,9 +23,9 @@ My last employment **JiffyShirts.com**, where I own critical performance metrics
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Core Frontend** | ![](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) |
-| **Backend & Data** | ![](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) |
-| **Tooling & Ops** | Webpack, Docker, GitHub Actions, Sentry, Jest, Playwright |
+| **Core Frontend** | ![](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![](https://img.shields.io/badge/Vue.js-35495E?&logo=vuedotjs&logoColor=4FC08D) |
+| **Backend & Data** | ![](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white) |
+| **Tooling & Ops** | Webpack, Vite, Docker, GitHub Actions, Sentry, Jest, Playwright |
 | **Legacy & Migration** | AngularJS → React/Vue refactoring strategies |
 
 ---
